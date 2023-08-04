@@ -48,13 +48,14 @@
       <h3>Application Electric Charge Finder</h3>
       <p>App displays charging stations for electric vehicles on the map, making it easy to find a charging spot for your EV</p>
       <p>
-        <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppCinema'>Go to GitHub repository</a>
+        <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppCharger'>Go to GitHub repository</a>
       </p>
       <p>Libraries and technologies:</p>
       <ul>
         <li>Model-View-ViewModel</li>
         <li>Google Maps integration</li>
         <li>Location Permissions handling</li>
+        <li>Di Koin</li>
         <li>Coroutines</li>
         <li>Retrofit, SQL</li>
         <li>Glide</li>
