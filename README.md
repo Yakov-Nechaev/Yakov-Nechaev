@@ -13,8 +13,8 @@
 
 <table>
   <tr>
-    <td width='440px' align='center' valign='middle'>
-      <img src='assets//demos/appCinema.gif' height='500px'>
+    <td width='340px' align='center' valign='middle'>
+      <img src='assets//demos/appCinema.gif' height='550px'>
     </td>
     <td width='400px'>
       <h3>Application Cinema</h3>
