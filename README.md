@@ -1,4 +1,4 @@
-### Hi, I'm Yakov Nechaev 👋 Welcome to my GitHub!
+### Hi, I'm Yakov 👋 Welcome to my GitHub!
 
 ### 💻 Skills:
 
