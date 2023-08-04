@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td width='440px' align='center' valign='middle'>
-      <img src='assets//demos/appCinema.gif' width='400px'>
+      <img src='assets//demos/appCinema.gif' width='300px'>
     </td>
     <td width='400px'>
       <h3>Application Cinema</h3>
