@@ -45,7 +45,7 @@
       <img src='assets//demos/appCharger.gif' height='500px'>
     </td>
     <td width='400px'>
-      <h3>Application Charger</h3>
+      <h3>Application Electric Charge Finder</h3>
       <p>App displays charging stations for electric vehicles on the map, making it easy to find a charging spot for your EV</p>
       <p>
         <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppCinema'>Go to GitHub repository</a>
