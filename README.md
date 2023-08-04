@@ -46,7 +46,7 @@
     </td>
     <td width='400px'>
       <h3>Application Charger</h3>
-      <p>App displays nearby charging stations for electric vehicles on the map, making it easy to find a charging spot for your EV</p>
+      <p>App displays charging stations for electric vehicles on the map, making it easy to find a charging spot for your EV</p>
       <p>
         <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppCinema'>Go to GitHub repository</a>
       </p>
