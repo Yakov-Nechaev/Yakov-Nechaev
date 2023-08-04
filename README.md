@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png" title="jetpackcompose" alt="jetpackcompose" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jetbrains.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
