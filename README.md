@@ -45,20 +45,20 @@
       <img src='assets//demos/appCharger.gif' height='500px'>
     </td>
     <td width='400px'>
-      <h3>Application Cinema</h3>
-      <p>Coursework project at Skillbox Academy</p>
+      <h3>Application Charger</h3>
+      <p>App displays nearby charging stations for electric vehicles on the map, making it easy to find a charging spot for your EV</p>
       <p>
         <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppCinema'>Go to GitHub repository</a>
       </p>
       <p>Libraries and technologies:</p>
       <ul>
         <li>Model-View-ViewModel</li>
+        <li>Google Maps integration</li>
+        <li>Location Permissions handling</li>
         <li>Coroutines</li>
         <li>Retrofit, SQL</li>
         <li>Glide</li>
-        <li>Shared preference store</li>
-        <li>ViewPager for onboarding</li>
-        <li>RecyclerView, Pagination, DiffUtil</li>
+        <li>Day and Night Mode (Theme)</li>
       </ul>
     </td>
   </tr>
