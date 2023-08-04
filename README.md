@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi, I'm Yakov Nechaev 👋 Welcome to my GitHub!
 
 ### 💻 Skills:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jetpackcompose.svg" title="jetpackcompose" alt="jetpackcompose" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jetbrains.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
