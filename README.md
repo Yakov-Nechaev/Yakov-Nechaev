@@ -23,7 +23,7 @@
     </td>
     <td width='400px'>
       <h3>Application Cinema</h3>
-      <p>Coursework project at Skillbox Academy</p>
+      <p>Explore new releases, save collections, share with friends, search for films, and get actor information - all in one place</p>
       <p>
         <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppCinema'>Go to GitHub repository</a>
       </p>
@@ -71,7 +71,7 @@
       <h3>Application Jokes</h3>
       <p>The user can choose their preferred categories, set the frequency of receiving joke notifications, and save their favorites</p>
       <p>
-        <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppCharger'>Go to GitHub repository</a>
+        <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppJoke'>Go to GitHub repository</a>
       </p>
       <p>Libraries and technologies:</p>
       <ul>
