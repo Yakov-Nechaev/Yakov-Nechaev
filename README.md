@@ -75,6 +75,7 @@
       </p>
       <p>Libraries and technologies:</p>
       <ul>
+        <li>Room</li>
         <li>Model-View-ViewModel</li>
         <li>Background mode</li>
         <li>Coroutine Worker</li>
