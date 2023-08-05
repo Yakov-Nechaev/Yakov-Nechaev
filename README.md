@@ -64,6 +64,27 @@
     </td>
   </tr>
 
+<td width='440px' align='center' valign='middle'>
+      <img src='assets//demos/appJoke.gif' height='500px'>
+    </td>
+    <td width='400px'>
+      <h3>Application Jokes</h3>
+      <p>The user can choose their preferred categories, set the frequency of receiving joke notifications, and save their favorites</p>
+      <p>
+        <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppCharger'>Go to GitHub repository</a>
+      </p>
+      <p>Libraries and technologies:</p>
+      <ul>
+        <li>Model-View-ViewModel</li>
+        <li>Background mode</li>
+        <li>Coroutine Worker</li>
+        <li>Broadcast Receiver</li>
+        <li>Alarm Manager</li>
+        <li>Retrofit, SQL</li>
+      </ul>
+    </td>
+  </tr>
+
 </table>
 
 ---
