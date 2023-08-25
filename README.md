@@ -46,7 +46,7 @@
     </td>
     <td width='430px'>
       <h3>Application Typing Practice</h3>
-      <p>Explore new releases, save collections, share with friends, search for films, and get actor information - all in one place</p>
+      <p>This is a native Kotlin console application designed for touch typing practice. It fetches sentences from the internet, providing users with sentences to type and replacing them as they are completed.</p>
       <p>
         <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppCinema'>Go to GitHub repository</a>
       </p>
