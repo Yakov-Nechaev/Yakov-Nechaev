@@ -42,9 +42,9 @@
 
 <tr>
     <td width='440px' align='center' valign='middle'>
-      <img src='assets//demos/appTyping.gif' height='500px'>
+      <img src='assets//demos/appTyping.gif' height='400px'>
     </td>
-    <td width='400px'>
+    <td width='430px'>
       <h3>Application Typing Practice</h3>
       <p>Explore new releases, save collections, share with friends, search for films, and get actor information - all in one place</p>
       <p>
