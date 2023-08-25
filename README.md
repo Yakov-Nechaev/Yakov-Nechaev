@@ -42,6 +42,29 @@
 
 <tr>
     <td width='440px' align='center' valign='middle'>
+      <img src='assets//demos/appTyping.gif' height='500px'>
+    </td>
+    <td width='400px'>
+      <h3>Application Typing Practice</h3>
+      <p>Explore new releases, save collections, share with friends, search for films, and get actor information - all in one place</p>
+      <p>
+        <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppCinema'>Go to GitHub repository</a>
+      </p>
+      <p>Libraries and technologies:</p>
+      <ul>
+        <li>Model-View-ViewModel</li>
+        <li>Coroutines</li>
+        <li>Retrofit, SQL</li>
+        <li>Glide</li>
+        <li>Shared preference store</li>
+        <li>ViewPager for onboarding</li>
+        <li>RecyclerView, Pagination, DiffUtil</li>
+      </ul>
+    </td>
+  </tr>
+
+<tr>
+    <td width='440px' align='center' valign='middle'>
       <img src='assets//demos/appCharger.gif' height='500px'>
     </td>
     <td width='400px'>
