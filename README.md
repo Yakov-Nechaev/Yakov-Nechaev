@@ -48,7 +48,7 @@
       <h3>Application Typing Practice</h3>
       <p>This is a native Kotlin console application for typing practice.</p>
       <p>
-        <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppCinema'>Go to GitHub repository</a>
+        <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppTyping'>Go to GitHub repository</a>
       </p>
       <p>Libraries and technologies:</p>
       <ul>
