@@ -42,7 +42,7 @@
 
 <tr>
     <td width='440px' align='center' valign='middle'>
-      <img src='assets//demos/appTyping.gif' height='400px'>
+      <img src='assets//demos/appTyping.gif' height='350px'>
     </td>
     <td width='430px'>
       <h3>Application Typing Practice</h3>
