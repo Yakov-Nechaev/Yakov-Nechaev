@@ -41,7 +41,7 @@
   </tr>
 
 <tr>
-    <td width='440px' align='center' valign='middle'>
+    <td width='500px' align='center' valign='middle'>
       <img src='assets//demos/appTyping.gif' height='350px'>
     </td>
     <td width='430px'>
