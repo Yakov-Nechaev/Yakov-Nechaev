@@ -46,19 +46,16 @@
     </td>
     <td width='430px'>
       <h3>Application Typing Practice</h3>
-      <p>This is a native Kotlin console application designed for touch typing practice. It fetches sentences from the internet, providing users with sentences to type and replacing them as they are completed.</p>
+      <p>This is a native Kotlin console application for typing practice.</p>
       <p>
         <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/AppCinema'>Go to GitHub repository</a>
       </p>
       <p>Libraries and technologies:</p>
       <ul>
-        <li>Model-View-ViewModel</li>
         <li>Coroutines</li>
-        <li>Retrofit, SQL</li>
-        <li>Glide</li>
-        <li>Shared preference store</li>
-        <li>ViewPager for onboarding</li>
-        <li>RecyclerView, Pagination, DiffUtil</li>
+        <li>Retrofit</li>
+        <li>JFrame</li>
+        <li>ANSI</li>
       </ul>
     </td>
   </tr>
