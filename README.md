@@ -21,7 +21,7 @@
 
 <tr>
     <td width='440px' align='center' valign='middle'>
-      <img src='assets//demos/appSnake.gif' height='350px'>
+      <img src='assets//demos/appSnake.gif' height='300px'>
     </td>
     <td width='400px'>
       <h3>Application Snake</h3>
