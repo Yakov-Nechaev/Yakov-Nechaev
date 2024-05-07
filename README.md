@@ -17,6 +17,26 @@
 ### Projects overview:
 
 <table>
+
+<tr>
+    <td width='440px' align='center' valign='middle'>
+      <img src='assets//demos/appTetris.gif' height='300px'>
+    </td>
+    <td width='400px'>
+      <h3>Application Tetris</h3>
+      <p>Classic Tetris written in Kotlin</p>
+      <p>
+        <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/Tetris'>Go to GitHub repository</a>
+      </p>
+      <p>Libraries and technologies:</p>
+      <ul>
+        <li>Javax swing</li>
+        <li>Coroutines</li>
+        <li>ViewModel</li>
+      </ul>
+    </td>
+  </tr>
+
   <tr>
     <td width='440px' align='center' valign='middle'>
       <img src='assets//demos/appCinema.gif' height='500px'>
