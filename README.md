@@ -18,6 +18,46 @@
 
 <table>
 
+
+<tr>
+    <td width='440px' align='center' valign='middle'>
+      <img src='assets//demos/appSnake.gif' height='350px'>
+    </td>
+    <td width='400px'>
+      <h3>Application Snake</h3>
+      <p>Classic Snake game written in Jetpack Compose</p>
+      <p>
+        <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/Snake'>Go to GitHub repository</a>
+      </p>
+      <p>Libraries and technologies:</p>
+      <ul>
+        <li>Jetpack Compose</li>
+        <li>Coroutines</li>
+        <li>ViewModel</li>
+      </ul>
+    </td>
+  </tr>
+
+<tr>
+    <td width='440px' align='center' valign='middle'>
+      <img src='assets//demos/appMines.gif' height='300px'>
+    </td>
+    <td width='400px'>
+      <h3>Application Minesweeper</h3>
+      <p>Classic Minesweeper written in Kotlin desktop with Jetpack Compose</p>
+      <p>
+        <a href='https://github.com/Yakov-Nechaev/Portfolio-projects/tree/main/Minesweeper'>Go to GitHub repository</a>
+      </p>
+      <p>Libraries and technologies:</p>
+      <ul>
+        <li>Jetpack Compose</li>
+        <li>Kotlin desktop</li>
+        <li>Coroutines</li>
+      </ul>
+    </td>
+  </tr>
+
+
 <tr>
     <td width='440px' align='center' valign='middle'>
       <img src='assets//demos/appTetris.gif' height='300px'>
